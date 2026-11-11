@@ -1,17 +1,5 @@
 # Summary
 
-This repository is used for brief summaries, notes, and project overviews related to my work, portfolio, and learning journey.
+This repository is currently a placeholder: it had no project files or repository description when this README was added. There is not yet enough repository content to identify a specific subject or claim what future summaries will cover.
 
-## Purpose
-
-- Store concise write-ups and project summaries
-- Document ideas, experiments, and progress
-- Keep important information organized in one place
-
-## Notes
-
-This repository is intentionally lightweight and can be expanded with project summaries, personal reflections, or technical notes as needed.
-
-## Status
-
-In progress.
+Use this repository for concise summaries once its topic and materials are established. Update this README to explain the subject, intended audience, and how the contents are organized when those details are available.
